@@ -71,8 +71,9 @@ body {
 }
 
 .bg3 {
-position: absolute;
-right: 750px;
+position:absolute;
+display: flex;
+left: 325px;
 top: 803px;
 }
 
