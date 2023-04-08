@@ -28,35 +28,44 @@
     </div>
 
     <div class="teksbox">
-    “Seberat apapun beban masalah <br> yang kamu hadapi saat ini, <br> percayalah bahwa semua <br> itu tidak pernah melebihi <br> batas kemampuan kamu.”
+    <div class="teks1">ITACHI UCHIHA
+    <div class="teks2">“Seberat apapun beban masalah <br>
+     yang kamu hadapi saat ini,
+     <br> percayalah bahwa semua itu<br> 
+     tidak pernah melebihi <br> 
+     batas kemampuan kamu.”</div></div>
     </div>
 
     
     <div class="bg1">
-        <img src="/img/itachi/bg1.png" alt="" width="350" height="350">
+        <img src="/img/itachi/bb.png" alt="" height="550">
+        <img src="/img/itachi/dd.png" alt="" height="1500">
     </div>
     <div class="bg3">
         <img src="/img/itachi/bg3.jpg" alt="" width="561" height="469">
     </div>
 
     <div class="teksbox2">
-        <img src="/img/itachi/bgchild3.1.png" alt="">
+        <img src="/img/itachi/cc.png" alt="">
     </div>
 
     <div class="tumbal"></div>
     <div class="persegi">
-    <p>
-    I'm sorry I won't be able to watch you grow up. <br> But know that I'll always be with you. <br> You don't have to forgive me. But no matter <br> what you decide to do from here on out, <br> know this... I will love you always    </p>    </div>
-    <div class="kosong">
-        <div class="last">
-        <img src="/img/itachi/bg2.png" alt="" width="280" height="331">
+    
+     I'm sorry I won't be able to watch you grow up. <br>
+     But know that I'll always be with you. <br>
+     You don't have to forgive me. But no matter <br>
+     what you decide to do from here on out, <br>
+     know this... I will love you always
+
+     <div class="last">
+        <img src="/img/itachi/bg2.png" alt="" height="331">
         </div>
+    
     </div>
-
     <div class="itachi">
-        <img src="/img/itachi/itachi.png" alt="" width="305" height="566">
+        <img src="/img/itachi/itachi.png" alt="" height="550">
     </div>
-
         </div>
 
 
